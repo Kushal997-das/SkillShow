@@ -1,19 +1,9 @@
----
-name: Custom issue template
-about: Use this space to report custom or blank issues that don’t fit predefined categories.
-  Share your ideas, suggestions, or concerns to help us enhance the project!
-title: Custom Issue Report
-labels: ''
-assignees: ''
-
----
-
-# Project-Guidance! 🎊🎈
+# SkillShow! 🎊🎈
 
 ### Welcome! 🎉
 Thank you for opening an issue! Your contributions help us improve the project. If you find this repository useful, please consider giving it a star! ⭐
 
-### 🎉 Have you reviewed the [Contributing Guidelines](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md)? 🤔 *(Required)*
+### 🎉 Have you reviewed the [Contributing Guidelines](https://github.com/Kushal997-das/SkillShow/blob/main/CONTRIBUTING.md)? 🤔 *(Required)*
 
 <!-- Please check the boxes that apply by replacing `[ ]` with `[x]`. -->
 - [ ] YES
@@ -43,4 +33,3 @@ Thank you for opening an issue! Your contributions help us improve the project. 
 You can expect a response within [X days].
 <!-- Please replace X with the exact number -->
 
-Feel free to check back or provide more details if needed!

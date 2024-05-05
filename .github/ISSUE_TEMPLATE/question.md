@@ -4,7 +4,12 @@ about: If you have questions, please check the below links
 title: ""
 labels: question
 assignees: ""
-initiatives:
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have you read the Contributing Guidelines? [Contributing Guidelines](https://github.com/Kushal997-das/SkillShow/blob/main/CONTRIBUTING.md)
+
   - type: dropdown
     attributes:
       label: Initiative (Required)
@@ -19,6 +24,7 @@ initiatives:
         - "Other (please specify): _______________ ✏️"
     validations:
       required: true
+
 contact_info:
   email: daskushal980@gmail.com
   github: https://github.com/Kushal997-das

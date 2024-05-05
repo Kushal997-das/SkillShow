@@ -3,6 +3,10 @@ description: Request/Suggest any feature you think is missing
 title: "Title: "
 labels: "Feature Request"
 body:
+  - type: markdown
+    attributes:
+      value: "Have you read the Contributing Guidelines? [Contributing Guidelines](https://github.com/Kushal997-das/SkillShow/blob/main/CONTRIBUTING.md)"
+
   - type: dropdown # Initiative
     attributes:
       label: Initiative (Required)

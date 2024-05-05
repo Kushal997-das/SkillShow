@@ -8,7 +8,7 @@ body:
     attributes:
       value: >
         Have you read the [Contributing
-        Guidelines](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md)?
+        Guidelines](https://github.com/Kushal997-das/SkillShow/blob/main/CONTRIBUTING.md)?
   - type: dropdown
     attributes:
       label: Initiative (Required)
