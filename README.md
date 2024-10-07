@@ -51,7 +51,7 @@
      - **How to Add Your Portfolio**:
        - Create a new folder with your GitHub `username`.
        - Add your portfolio `Image` file there.
-       - Ensure you don't modify anything in [this template](https://github.com/Kushal997-das/SkillShow/tree/main/Intermediate%20Level%20%F0%9F%93%81#readme). Simply copy the code and fill in your details:
+       - Ensure you don't modify anything in [this template](https://github.com/Kushal997-das/SkillShow/blob/main/Intermediate%20Level%20%F0%9F%93%81/README.md). Simply copy the code and fill in your details:
          ```html
          <table width="100%">
            <tr>
