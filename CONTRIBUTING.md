@@ -1,7 +1,6 @@
 # Contributing Guidelines
 
-Welcome to Hacktoberfest 2024! 🎉 We're excited to help beginners make their first successful pull request and contribute to open source.
-
+Welcome to **SkillShow**! 🎉 We’re excited to help beginners make their first successful pull request and contribute to open source.
 
 ## Eligibility Criteria 🚫
 
@@ -11,14 +10,14 @@ Welcome to Hacktoberfest 2024! 🎉 We're excited to help beginners make their f
 
 ## Tasks 🌈
 
-<img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/Beginner%20level-green.svg?&style=for-the-badge&logo=Beginner%20level&logoColor=blue" />
 
 1. **Add Your Program Question and Solution**:
    - Create a folder: `<name_of_program>/`
      - Include `question.md` and the solution file (C, Java, Python, etc.).
    - Add your name and GitHub username.
   
-<img height="30" src="https://img.shields.io/badge/Intermediate level -red.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
+<img height="30" src="https://img.shields.io/badge/Intermediate%20level-red.svg?&style=for-the-badge&logo=Intermediate%20level&logoColor=blue" />
 
 2. **Submit Your Portfolio Page**:
    - Follow the [template instructions](#).
@@ -27,12 +26,12 @@ Welcome to Hacktoberfest 2024! 🎉 We're excited to help beginners make their f
 
 ## How to Contribute
 
-1. **Star this Repository**: Hacktoberfest-2024. (`Important`)
+1. **Star this Repository**: SkillShow. (`Important`)
 2. **Fork the Repository**.
 3. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/<your-github-username>/Hacktoberfest-2024
-   cd Hacktoberfest-2024
+   git clone https://github.com/<your-github-username>/SkillShow
+   cd SkillShow
    ```
 4. **Create a New Branch**:
    ```bash
@@ -49,4 +48,4 @@ Welcome to Hacktoberfest 2024! 🎉 We're excited to help beginners make their f
    git push -u origin <your_branch_name>
    ```
 
-Congratulations! 🎉 You've contributed to Hacktoberfest 2024!
+Congratulations! 🎉 You’ve contributed to SkillShow!
