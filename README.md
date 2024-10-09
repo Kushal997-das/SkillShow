@@ -46,7 +46,7 @@
      - Don't forget to add your name and GitHub username [here](https://github.com/Kushal997-das/SkillShow/blob/main/Beginner%20Level%20%F0%9F%93%81/data.json). 📝
 
 2. **[Intermediate Level 📁](https://github.com/Kushal997-das/SkillShow/tree/main/Intermediate%20Level%20%F0%9F%93%81)**
-   - **Task 2**: [Submit Your Own Portfolio Page / GitHub Profile](https://github.com/Kushal997-das/SkillShow/tree/main/Intermediate%20Level%20%F0%9F%93%81) 📄
+   - **Task 2**: [Submit Your Own GitHub Profile](https://github.com/Kushal997-das/SkillShow/tree/main/Intermediate%20Level%20%F0%9F%93%81) 📄
      - **Before you start**, please **star ⭐ this repo** and open an issue related to your portfolio submission.
      - **How to Add Your Portfolio**:
        - Create a new folder with your GitHub `username`.
