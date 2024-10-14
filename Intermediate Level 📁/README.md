@@ -6,3 +6,12 @@
             </td>
           </tr>
 </table>
+
+<table width="100%">
+  <tr>
+    <td align="center">
+       <img src="SammyUrfen/my github profile.png" height="250" width="300" />
+      <p><a href="https://github.com/SammyUrfen">Bibek Jyoti Charah</a></p>
+     </td>
+  </tr>
+</table>
