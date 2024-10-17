@@ -42,3 +42,4 @@ function spiralMatrix(n) {
   }
   return ans;
 }
+console.log(spiralMatrix(n));
