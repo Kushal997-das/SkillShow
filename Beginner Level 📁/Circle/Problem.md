@@ -7,7 +7,6 @@ You are given a number `r` as an argument denoting the radius of the circle. You
 
 **Hint 2:** Use `Math.PI` to get the value of pi.
 
-**NOTE:** Solve this using `Arrow` function.
 
 ## Sample Input
 ```plaintext
