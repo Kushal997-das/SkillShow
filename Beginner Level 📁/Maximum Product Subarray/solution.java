@@ -23,4 +23,11 @@ class Solution {
 
         return maxProduct;
     }
+
+    public static void main(String[] args) {
+        Solution solution = new Solution();  // Create an instance of Solution class
+        
+        int[] nums1 = {2, 3, -2, 4};
+        System.out.println("Maximum Product of Subarray for {2, 3, -2, 4}: " + solution.maxProduct(nums1)); // Output: 6
+    }
 }
