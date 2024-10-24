@@ -14,4 +14,4 @@ jobs:
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
-            @${{ github.event.pull_request.user.login }} Hurray, your PR got merged into our SkillShow 🥳. Thanks a bunch. Feel free to take another Issue. 💖
+            @${{ github.event.pull_request.user.login }} Hurray, your PR got merged into our Skill-Show 🥳. Thanks a bunch. Feel free to take another Issue. 💖
