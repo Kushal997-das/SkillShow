@@ -4,6 +4,11 @@
 
 ## Welcome to SkillShow! 🎉
 
+<p align="center"> 
+  
+![skillgif](https://github.com/user-attachments/assets/ec975c3c-5512-4ae8-bcbb-506f74e81b6e) 
+</p>
+
 **SkillShow** is a collaborative repository aimed at helping beginners and intermediate programmers improve their coding skills and contribute to open-source projects. It provides a platform for users to showcase their programming questions and solutions, along with their personal portfolios.
 
 ## Project Goals
