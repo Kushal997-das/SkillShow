@@ -103,7 +103,6 @@ These resources are essential for your journey:
 
 
 
-
 ```
   _____ _                 _     __   __          
  |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
