@@ -102,7 +102,6 @@ These resources are essential for your journey:
 :tada: :confetti_ball: **Happy Contributing!** :confetti_ball: :tada:
 
 
-
 ```
   _____ _                 _     __   __          
  |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
