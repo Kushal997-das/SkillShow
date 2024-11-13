@@ -92,7 +92,7 @@ These resources are essential for your journey:
 
 ---
 
-## Awesome Contributors 🌟
+### Awesome Contributors 🌟
 
 <a href="https://github.com/Kushal997-das/SkillShow/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Kushal997-das/SkillShow" />
